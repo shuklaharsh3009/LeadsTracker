@@ -25,4 +25,4 @@ The extension will be installed now. <br>
 4. And boom! you have successfully added your Firefox extension!!!!!!! <br>
 ![002](https://user-images.githubusercontent.com/100336788/180663619-159a38eb-c6d8-4f03-842a-6a517961bae9.jpg)
 # Icon
-![icon](https://user-images.githubusercontent.com/100336788/180663637-5282a36b-2e60-48c2-b565-c16c6bed41b1.png)
+<img src="https://user-images.githubusercontent.com/100336788/180663637-5282a36b-2e60-48c2-b565-c16c6bed41b1.png" height="250px">
